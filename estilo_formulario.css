@@ -2,20 +2,19 @@ body{
 	font-family: Calibri;
 }
 
+h1,h3,legend{
+	font-family:Segoe UI, Segoe, Optima, Candara, Calibri, Arial, sans-serif;
+}
+
 legend{
-	font-family: sans-serif;
+	color: orange;
 }
 
 h1{
 	color: #B72304;
-	font-family: Segoe UI;
 	font-size: 3em;
 	letter-spacing: 0.3em;
 	word-spacing: 1.0em;
-}
-
-h3{
-	font-family: Arial;
 }
 
 fieldset{
