@@ -1,0 +1,25 @@
+body{
+	font-family: Calibri;
+}
+
+legend{
+	font-family: sans-serif;
+}
+
+h1{
+	color: #B72304;
+	font-family: Segoe UI;
+	font-size: 3em;
+	letter-spacing: 0.3em;
+	word-spacing: 1.0em;
+}
+
+h3{
+	font-family: Arial;
+}
+
+fieldset{
+	border-color: darkblue;
+	border-width: 3px;
+	border-radius: 24px;
+}
